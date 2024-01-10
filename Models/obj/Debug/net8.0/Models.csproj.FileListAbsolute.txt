@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\תיכנות\יד\פרוייקט חנוכה\DBFirst\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תיכנות\יד\פרוייקט חנוכה\DBFirst\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תיכנות\יד\פרוייקט חנוכה\DBFirst\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תיכנות\יד\פרוייקט חנוכה\DBFirst\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\user\Desktop\תיכנות\יד\פרוייקט חנוכה\DBFirst\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
